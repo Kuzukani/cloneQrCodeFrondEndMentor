@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [frondendmentore]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/qr-code-component-using-only-html-and-internal-css-7AgINjuIVW))
+- Solution URL: [frondendmentor](https://www.frontendmentor.io/solutions/qr-code-component-using-only-html-and-internal-css-7AgINjuIVW)
 - Live Site URL: [live site from cloud flare](https://cloneqrcodefrondendmentor.pages.dev/)
 
 ## My process
