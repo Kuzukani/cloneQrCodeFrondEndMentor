@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [W3schools](https://www.w3school.com) - This site provide all knowledges from beginning of my journey until now.
+- [W3schools](https://www.w3schools.com) - This site provide all knowledges from beginning of my journey until now.
 
 ## Author
 
